@@ -1,5 +1,5 @@
 function change() {
-    const titleDoc= document.querySelector("h1");
+    const titleDoc= document.querySelector("#titleId");
   
     titleDoc.textContent = "Hola caracola";
 }
