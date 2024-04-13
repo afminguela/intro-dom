@@ -1,3 +1,5 @@
 function change() {
-    // your code goes here
+  const titleDoc = document.querySelector("#titleIdName");
+
+  titleDoc.style.color = "purple";
 }
