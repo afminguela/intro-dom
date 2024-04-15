@@ -1,3 +1,6 @@
 function change() {
-    // add red squares to the HTML when the button is clicked
+    let redSquare = document.querySelector("div")
+     
+    document.article.appendChild(redSquare);
+
 }
